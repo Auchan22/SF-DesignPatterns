@@ -1,11 +1,12 @@
-## You've got the Code for Design Patterns for Fun and Proficiency. Yeehaw!
+# Patrones de Diseño - Symfony
 
-Hi there! Inside this code download you'll find the following things:
+Este repositorio abarcara el código correspondiente al curso de **patrones de diseño** de Symfony Cast.
 
-* A `start/` directory: how the project looked at the *start* of the tutorial
+---
 
-* A `finish/` directory: how the project looked after we did all the cool coding
-
-In each directory, you'll find more details about how to set up the project.
-But if you have any questions, just post a comment on the course page and
-ask!
+* Clase 1: **Strategy Pattern**
+Este patrón es un patron de "comportamiento", que nos permite organizar código en distintas clases y relacionarse entre sí. Define una familia de algoritmos, encapsula cada uno y los hace intercambiables entre sí. Permite reescribir parte de una clase desde su exterior
+* Clase 2: **a**
+* Clase 3: **a**
+* Clase 4: **a**
+* Clase 5: **a**
